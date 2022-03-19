@@ -1,0 +1,358 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="GradleSettings">
+    <option name="linkedExternalProjectsSettings">
+      <GradleProjectSettings>
+        <option name="distributionType" value="DEFAULT_WRAPPED" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$/Chapter03/1-spring-init" />
+        <option name="gradleJvm" value="11" />
+        <option name="modules">
+          <set>
+            <option value="$PROJECT_DIR$/Chapter03/1-spring-init" />
+            <option value="$PROJECT_DIR$/Chapter03/1-spring-init/microservices" />
+            <option value="$PROJECT_DIR$/Chapter03/1-spring-init/microservices/product-composite-service" />
+            <option value="$PROJECT_DIR$/Chapter03/1-spring-init/microservices/product-service" />
+            <option value="$PROJECT_DIR$/Chapter03/1-spring-init/microservices/recommendation-service" />
+            <option value="$PROJECT_DIR$/Chapter03/1-spring-init/microservices/review-service" />
+          </set>
+        </option>
+      </GradleProjectSettings>
+      <GradleProjectSettings>
+        <option name="distributionType" value="DEFAULT_WRAPPED" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$/Chapter03/2-basic-rest-services" />
+        <option name="modules">
+          <set>
+            <option value="$PROJECT_DIR$/Chapter03/2-basic-rest-services" />
+            <option value="$PROJECT_DIR$/Chapter03/2-basic-rest-services/api" />
+            <option value="$PROJECT_DIR$/Chapter03/2-basic-rest-services/microservices" />
+            <option value="$PROJECT_DIR$/Chapter03/2-basic-rest-services/microservices/product-composite-service" />
+            <option value="$PROJECT_DIR$/Chapter03/2-basic-rest-services/microservices/product-service" />
+            <option value="$PROJECT_DIR$/Chapter03/2-basic-rest-services/microservices/recommendation-service" />
+            <option value="$PROJECT_DIR$/Chapter03/2-basic-rest-services/microservices/review-service" />
+            <option value="$PROJECT_DIR$/Chapter03/2-basic-rest-services/util" />
+          </set>
+        </option>
+      </GradleProjectSettings>
+      <GradleProjectSettings>
+        <option name="distributionType" value="DEFAULT_WRAPPED" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$/Chapter04" />
+        <option name="modules">
+          <set>
+            <option value="$PROJECT_DIR$/Chapter04" />
+            <option value="$PROJECT_DIR$/Chapter04/api" />
+            <option value="$PROJECT_DIR$/Chapter04/microservices" />
+            <option value="$PROJECT_DIR$/Chapter04/microservices/product-composite-service" />
+            <option value="$PROJECT_DIR$/Chapter04/microservices/product-service" />
+            <option value="$PROJECT_DIR$/Chapter04/microservices/recommendation-service" />
+            <option value="$PROJECT_DIR$/Chapter04/microservices/review-service" />
+            <option value="$PROJECT_DIR$/Chapter04/util" />
+          </set>
+        </option>
+      </GradleProjectSettings>
+      <GradleProjectSettings>
+        <option name="distributionType" value="DEFAULT_WRAPPED" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$/Chapter05" />
+        <option name="modules">
+          <set>
+            <option value="$PROJECT_DIR$/Chapter05" />
+            <option value="$PROJECT_DIR$/Chapter05/api" />
+            <option value="$PROJECT_DIR$/Chapter05/microservices" />
+            <option value="$PROJECT_DIR$/Chapter05/microservices/product-composite-service" />
+            <option value="$PROJECT_DIR$/Chapter05/microservices/product-service" />
+            <option value="$PROJECT_DIR$/Chapter05/microservices/recommendation-service" />
+            <option value="$PROJECT_DIR$/Chapter05/microservices/review-service" />
+            <option value="$PROJECT_DIR$/Chapter05/util" />
+          </set>
+        </option>
+      </GradleProjectSettings>
+      <GradleProjectSettings>
+        <option name="distributionType" value="DEFAULT_WRAPPED" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$/Chapter06" />
+        <option name="modules">
+          <set>
+            <option value="$PROJECT_DIR$/Chapter06" />
+            <option value="$PROJECT_DIR$/Chapter06/api" />
+            <option value="$PROJECT_DIR$/Chapter06/microservices" />
+            <option value="$PROJECT_DIR$/Chapter06/microservices/product-composite-service" />
+            <option value="$PROJECT_DIR$/Chapter06/microservices/product-service" />
+            <option value="$PROJECT_DIR$/Chapter06/microservices/recommendation-service" />
+            <option value="$PROJECT_DIR$/Chapter06/microservices/review-service" />
+            <option value="$PROJECT_DIR$/Chapter06/util" />
+          </set>
+        </option>
+      </GradleProjectSettings>
+      <GradleProjectSettings>
+        <option name="distributionType" value="DEFAULT_WRAPPED" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$/Chapter07" />
+        <option name="modules">
+          <set>
+            <option value="$PROJECT_DIR$/Chapter07" />
+            <option value="$PROJECT_DIR$/Chapter07/api" />
+            <option value="$PROJECT_DIR$/Chapter07/microservices" />
+            <option value="$PROJECT_DIR$/Chapter07/microservices/product-composite-service" />
+            <option value="$PROJECT_DIR$/Chapter07/microservices/product-service" />
+            <option value="$PROJECT_DIR$/Chapter07/microservices/recommendation-service" />
+            <option value="$PROJECT_DIR$/Chapter07/microservices/review-service" />
+            <option value="$PROJECT_DIR$/Chapter07/util" />
+          </set>
+        </option>
+      </GradleProjectSettings>
+      <GradleProjectSettings>
+        <option name="distributionType" value="DEFAULT_WRAPPED" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$/Chapter09" />
+        <option name="modules">
+          <set>
+            <option value="$PROJECT_DIR$/Chapter09" />
+            <option value="$PROJECT_DIR$/Chapter09/api" />
+            <option value="$PROJECT_DIR$/Chapter09/microservices" />
+            <option value="$PROJECT_DIR$/Chapter09/microservices/product-composite-service" />
+            <option value="$PROJECT_DIR$/Chapter09/microservices/product-service" />
+            <option value="$PROJECT_DIR$/Chapter09/microservices/recommendation-service" />
+            <option value="$PROJECT_DIR$/Chapter09/microservices/review-service" />
+            <option value="$PROJECT_DIR$/Chapter09/spring-cloud" />
+            <option value="$PROJECT_DIR$/Chapter09/spring-cloud/eureka-server" />
+            <option value="$PROJECT_DIR$/Chapter09/util" />
+          </set>
+        </option>
+      </GradleProjectSettings>
+      <GradleProjectSettings>
+        <option name="distributionType" value="DEFAULT_WRAPPED" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$/Chapter10" />
+        <option name="modules">
+          <set>
+            <option value="$PROJECT_DIR$/Chapter10" />
+            <option value="$PROJECT_DIR$/Chapter10/api" />
+            <option value="$PROJECT_DIR$/Chapter10/microservices" />
+            <option value="$PROJECT_DIR$/Chapter10/microservices/product-composite-service" />
+            <option value="$PROJECT_DIR$/Chapter10/microservices/product-service" />
+            <option value="$PROJECT_DIR$/Chapter10/microservices/recommendation-service" />
+            <option value="$PROJECT_DIR$/Chapter10/microservices/review-service" />
+            <option value="$PROJECT_DIR$/Chapter10/spring-cloud" />
+            <option value="$PROJECT_DIR$/Chapter10/spring-cloud/eureka-server" />
+            <option value="$PROJECT_DIR$/Chapter10/spring-cloud/gateway" />
+            <option value="$PROJECT_DIR$/Chapter10/util" />
+          </set>
+        </option>
+      </GradleProjectSettings>
+      <GradleProjectSettings>
+        <option name="distributionType" value="DEFAULT_WRAPPED" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$/Chapter11" />
+        <option name="modules">
+          <set>
+            <option value="$PROJECT_DIR$/Chapter11" />
+            <option value="$PROJECT_DIR$/Chapter11/api" />
+            <option value="$PROJECT_DIR$/Chapter11/microservices" />
+            <option value="$PROJECT_DIR$/Chapter11/microservices/product-composite-service" />
+            <option value="$PROJECT_DIR$/Chapter11/microservices/product-service" />
+            <option value="$PROJECT_DIR$/Chapter11/microservices/recommendation-service" />
+            <option value="$PROJECT_DIR$/Chapter11/microservices/review-service" />
+            <option value="$PROJECT_DIR$/Chapter11/spring-cloud" />
+            <option value="$PROJECT_DIR$/Chapter11/spring-cloud/authorization-server" />
+            <option value="$PROJECT_DIR$/Chapter11/spring-cloud/eureka-server" />
+            <option value="$PROJECT_DIR$/Chapter11/spring-cloud/gateway" />
+            <option value="$PROJECT_DIR$/Chapter11/util" />
+          </set>
+        </option>
+      </GradleProjectSettings>
+      <GradleProjectSettings>
+        <option name="distributionType" value="DEFAULT_WRAPPED" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$/Chapter12" />
+        <option name="modules">
+          <set>
+            <option value="$PROJECT_DIR$/Chapter12" />
+            <option value="$PROJECT_DIR$/Chapter12/api" />
+            <option value="$PROJECT_DIR$/Chapter12/microservices" />
+            <option value="$PROJECT_DIR$/Chapter12/microservices/product-composite-service" />
+            <option value="$PROJECT_DIR$/Chapter12/microservices/product-service" />
+            <option value="$PROJECT_DIR$/Chapter12/microservices/recommendation-service" />
+            <option value="$PROJECT_DIR$/Chapter12/microservices/review-service" />
+            <option value="$PROJECT_DIR$/Chapter12/spring-cloud" />
+            <option value="$PROJECT_DIR$/Chapter12/spring-cloud/authorization-server" />
+            <option value="$PROJECT_DIR$/Chapter12/spring-cloud/config-server" />
+            <option value="$PROJECT_DIR$/Chapter12/spring-cloud/eureka-server" />
+            <option value="$PROJECT_DIR$/Chapter12/spring-cloud/gateway" />
+            <option value="$PROJECT_DIR$/Chapter12/util" />
+          </set>
+        </option>
+      </GradleProjectSettings>
+      <GradleProjectSettings>
+        <option name="distributionType" value="DEFAULT_WRAPPED" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$/Chapter13" />
+        <option name="modules">
+          <set>
+            <option value="$PROJECT_DIR$/Chapter13" />
+            <option value="$PROJECT_DIR$/Chapter13/api" />
+            <option value="$PROJECT_DIR$/Chapter13/microservices" />
+            <option value="$PROJECT_DIR$/Chapter13/microservices/product-composite-service" />
+            <option value="$PROJECT_DIR$/Chapter13/microservices/product-service" />
+            <option value="$PROJECT_DIR$/Chapter13/microservices/recommendation-service" />
+            <option value="$PROJECT_DIR$/Chapter13/microservices/review-service" />
+            <option value="$PROJECT_DIR$/Chapter13/spring-cloud" />
+            <option value="$PROJECT_DIR$/Chapter13/spring-cloud/authorization-server" />
+            <option value="$PROJECT_DIR$/Chapter13/spring-cloud/config-server" />
+            <option value="$PROJECT_DIR$/Chapter13/spring-cloud/eureka-server" />
+            <option value="$PROJECT_DIR$/Chapter13/spring-cloud/gateway" />
+            <option value="$PROJECT_DIR$/Chapter13/util" />
+          </set>
+        </option>
+      </GradleProjectSettings>
+      <GradleProjectSettings>
+        <option name="distributionType" value="DEFAULT_WRAPPED" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$/Chapter14" />
+        <option name="modules">
+          <set>
+            <option value="$PROJECT_DIR$/Chapter14" />
+            <option value="$PROJECT_DIR$/Chapter14/api" />
+            <option value="$PROJECT_DIR$/Chapter14/microservices" />
+            <option value="$PROJECT_DIR$/Chapter14/microservices/product-composite-service" />
+            <option value="$PROJECT_DIR$/Chapter14/microservices/product-service" />
+            <option value="$PROJECT_DIR$/Chapter14/microservices/recommendation-service" />
+            <option value="$PROJECT_DIR$/Chapter14/microservices/review-service" />
+            <option value="$PROJECT_DIR$/Chapter14/spring-cloud" />
+            <option value="$PROJECT_DIR$/Chapter14/spring-cloud/authorization-server" />
+            <option value="$PROJECT_DIR$/Chapter14/spring-cloud/config-server" />
+            <option value="$PROJECT_DIR$/Chapter14/spring-cloud/eureka-server" />
+            <option value="$PROJECT_DIR$/Chapter14/spring-cloud/gateway" />
+            <option value="$PROJECT_DIR$/Chapter14/util" />
+          </set>
+        </option>
+      </GradleProjectSettings>
+      <GradleProjectSettings>
+        <option name="distributionType" value="DEFAULT_WRAPPED" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$/Chapter15" />
+        <option name="modules">
+          <set>
+            <option value="$PROJECT_DIR$/Chapter15" />
+            <option value="$PROJECT_DIR$/Chapter15/api" />
+            <option value="$PROJECT_DIR$/Chapter15/microservices" />
+            <option value="$PROJECT_DIR$/Chapter15/microservices/product-composite-service" />
+            <option value="$PROJECT_DIR$/Chapter15/microservices/product-service" />
+            <option value="$PROJECT_DIR$/Chapter15/microservices/recommendation-service" />
+            <option value="$PROJECT_DIR$/Chapter15/microservices/review-service" />
+            <option value="$PROJECT_DIR$/Chapter15/spring-cloud" />
+            <option value="$PROJECT_DIR$/Chapter15/spring-cloud/authorization-server" />
+            <option value="$PROJECT_DIR$/Chapter15/spring-cloud/config-server" />
+            <option value="$PROJECT_DIR$/Chapter15/spring-cloud/eureka-server" />
+            <option value="$PROJECT_DIR$/Chapter15/spring-cloud/gateway" />
+            <option value="$PROJECT_DIR$/Chapter15/util" />
+          </set>
+        </option>
+      </GradleProjectSettings>
+      <GradleProjectSettings>
+        <option name="distributionType" value="DEFAULT_WRAPPED" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$/Chapter16" />
+        <option name="modules">
+          <set>
+            <option value="$PROJECT_DIR$/Chapter16" />
+            <option value="$PROJECT_DIR$/Chapter16/api" />
+            <option value="$PROJECT_DIR$/Chapter16/microservices" />
+            <option value="$PROJECT_DIR$/Chapter16/microservices/product-composite-service" />
+            <option value="$PROJECT_DIR$/Chapter16/microservices/product-service" />
+            <option value="$PROJECT_DIR$/Chapter16/microservices/recommendation-service" />
+            <option value="$PROJECT_DIR$/Chapter16/microservices/review-service" />
+            <option value="$PROJECT_DIR$/Chapter16/spring-cloud" />
+            <option value="$PROJECT_DIR$/Chapter16/spring-cloud/authorization-server" />
+            <option value="$PROJECT_DIR$/Chapter16/spring-cloud/config-server" />
+            <option value="$PROJECT_DIR$/Chapter16/spring-cloud/gateway" />
+            <option value="$PROJECT_DIR$/Chapter16/util" />
+          </set>
+        </option>
+      </GradleProjectSettings>
+      <GradleProjectSettings>
+        <option name="distributionType" value="DEFAULT_WRAPPED" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$/Chapter17" />
+        <option name="modules">
+          <set>
+            <option value="$PROJECT_DIR$/Chapter17" />
+            <option value="$PROJECT_DIR$/Chapter17/api" />
+            <option value="$PROJECT_DIR$/Chapter17/microservices" />
+            <option value="$PROJECT_DIR$/Chapter17/microservices/product-composite-service" />
+            <option value="$PROJECT_DIR$/Chapter17/microservices/product-service" />
+            <option value="$PROJECT_DIR$/Chapter17/microservices/recommendation-service" />
+            <option value="$PROJECT_DIR$/Chapter17/microservices/review-service" />
+            <option value="$PROJECT_DIR$/Chapter17/spring-cloud" />
+            <option value="$PROJECT_DIR$/Chapter17/spring-cloud/authorization-server" />
+            <option value="$PROJECT_DIR$/Chapter17/spring-cloud/gateway" />
+            <option value="$PROJECT_DIR$/Chapter17/util" />
+          </set>
+        </option>
+      </GradleProjectSettings>
+      <GradleProjectSettings>
+        <option name="distributionType" value="DEFAULT_WRAPPED" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$/Chapter18" />
+        <option name="modules">
+          <set>
+            <option value="$PROJECT_DIR$/Chapter18" />
+            <option value="$PROJECT_DIR$/Chapter18/api" />
+            <option value="$PROJECT_DIR$/Chapter18/microservices" />
+            <option value="$PROJECT_DIR$/Chapter18/microservices/product-composite-service" />
+            <option value="$PROJECT_DIR$/Chapter18/microservices/product-service" />
+            <option value="$PROJECT_DIR$/Chapter18/microservices/recommendation-service" />
+            <option value="$PROJECT_DIR$/Chapter18/microservices/review-service" />
+            <option value="$PROJECT_DIR$/Chapter18/spring-cloud" />
+            <option value="$PROJECT_DIR$/Chapter18/spring-cloud/authorization-server" />
+            <option value="$PROJECT_DIR$/Chapter18/spring-cloud/gateway" />
+            <option value="$PROJECT_DIR$/Chapter18/util" />
+          </set>
+        </option>
+      </GradleProjectSettings>
+      <GradleProjectSettings>
+        <option name="distributionType" value="DEFAULT_WRAPPED" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$/Chapter19" />
+        <option name="modules">
+          <set>
+            <option value="$PROJECT_DIR$/Chapter19" />
+            <option value="$PROJECT_DIR$/Chapter19/api" />
+            <option value="$PROJECT_DIR$/Chapter19/microservices" />
+            <option value="$PROJECT_DIR$/Chapter19/microservices/product-composite-service" />
+            <option value="$PROJECT_DIR$/Chapter19/microservices/product-service" />
+            <option value="$PROJECT_DIR$/Chapter19/microservices/recommendation-service" />
+            <option value="$PROJECT_DIR$/Chapter19/microservices/review-service" />
+            <option value="$PROJECT_DIR$/Chapter19/spring-cloud" />
+            <option value="$PROJECT_DIR$/Chapter19/spring-cloud/authorization-server" />
+            <option value="$PROJECT_DIR$/Chapter19/spring-cloud/gateway" />
+            <option value="$PROJECT_DIR$/Chapter19/util" />
+          </set>
+        </option>
+      </GradleProjectSettings>
+      <GradleProjectSettings>
+        <option name="distributionType" value="DEFAULT_WRAPPED" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$/Chapter20" />
+        <option name="modules">
+          <set>
+            <option value="$PROJECT_DIR$/Chapter20" />
+            <option value="$PROJECT_DIR$/Chapter20/api" />
+            <option value="$PROJECT_DIR$/Chapter20/microservices" />
+            <option value="$PROJECT_DIR$/Chapter20/microservices/product-composite-service" />
+            <option value="$PROJECT_DIR$/Chapter20/microservices/product-service" />
+            <option value="$PROJECT_DIR$/Chapter20/microservices/recommendation-service" />
+            <option value="$PROJECT_DIR$/Chapter20/microservices/review-service" />
+            <option value="$PROJECT_DIR$/Chapter20/spring-cloud" />
+            <option value="$PROJECT_DIR$/Chapter20/spring-cloud/authorization-server" />
+            <option value="$PROJECT_DIR$/Chapter20/spring-cloud/gateway" />
+            <option value="$PROJECT_DIR$/Chapter20/util" />
+          </set>
+        </option>
+      </GradleProjectSettings>
+      <GradleProjectSettings>
+        <option name="distributionType" value="DEFAULT_WRAPPED" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$/Chapter23" />
+        <option name="modules">
+          <set>
+            <option value="$PROJECT_DIR$/Chapter23" />
+            <option value="$PROJECT_DIR$/Chapter23/api" />
+            <option value="$PROJECT_DIR$/Chapter23/microservices" />
+            <option value="$PROJECT_DIR$/Chapter23/microservices/product-composite-service" />
+            <option value="$PROJECT_DIR$/Chapter23/microservices/product-service" />
+            <option value="$PROJECT_DIR$/Chapter23/microservices/recommendation-service" />
+            <option value="$PROJECT_DIR$/Chapter23/microservices/review-service" />
+            <option value="$PROJECT_DIR$/Chapter23/spring-cloud" />
+            <option value="$PROJECT_DIR$/Chapter23/spring-cloud/authorization-server" />
+            <option value="$PROJECT_DIR$/Chapter23/spring-cloud/gateway" />
+            <option value="$PROJECT_DIR$/Chapter23/util" />
+          </set>
+        </option>
+      </GradleProjectSettings>
+    </option>
+  </component>
+</project>

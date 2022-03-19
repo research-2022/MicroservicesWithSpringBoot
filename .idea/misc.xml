@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ExternalStorageConfigurationManager" enabled="true" />
+  <component name="FrameworkDetectionExcludesConfiguration">
+    <file type="web" url="file://$PROJECT_DIR$/Chapter03/1-spring-init" />
+    <file type="web" url="file://$PROJECT_DIR$/Chapter03/2-basic-rest-services" />
+    <file type="web" url="file://$PROJECT_DIR$/Chapter04" />
+    <file type="web" url="file://$PROJECT_DIR$/Chapter05" />
+    <file type="web" url="file://$PROJECT_DIR$/Chapter06" />
+    <file type="web" url="file://$PROJECT_DIR$/Chapter07" />
+    <file type="web" url="file://$PROJECT_DIR$/Chapter09" />
+    <file type="web" url="file://$PROJECT_DIR$/Chapter10" />
+    <file type="web" url="file://$PROJECT_DIR$/Chapter11" />
+    <file type="web" url="file://$PROJECT_DIR$/Chapter12" />
+    <file type="web" url="file://$PROJECT_DIR$/Chapter13" />
+    <file type="web" url="file://$PROJECT_DIR$/Chapter14" />
+    <file type="web" url="file://$PROJECT_DIR$/Chapter15" />
+    <file type="web" url="file://$PROJECT_DIR$/Chapter16" />
+    <file type="web" url="file://$PROJECT_DIR$/Chapter17" />
+    <file type="web" url="file://$PROJECT_DIR$/Chapter18" />
+    <file type="web" url="file://$PROJECT_DIR$/Chapter19" />
+    <file type="web" url="file://$PROJECT_DIR$/Chapter20" />
+    <file type="web" url="file://$PROJECT_DIR$/Chapter23" />
+  </component>
+  <component name="ProjectRootManager" version="2" project-jdk-name="11" project-jdk-type="JavaSDK" />
+  <component name="ProjectType">
+    <option name="id" value="jpab" />
+  </component>
+</project>
